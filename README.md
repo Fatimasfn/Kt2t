@@ -1,0 +1,1 @@
+Discover the vibrant history and culture of Katsina, Northern Nigeria. Explore ancient city walls, bustling markets, and stunning mosques. Learn about traditional crafts, delicious cuisine, and the warm hospitality of the people. Experience the unique beauty of Katsina, a hidden gem in West Africa.
