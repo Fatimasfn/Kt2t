@@ -83,3 +83,9 @@ nav ul li{
     margin-top: 10px;
     /* margin-bottom: 10px; */
 }
+.img2{
+    width: 200px; 
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
