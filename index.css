@@ -89,3 +89,19 @@ nav ul li{
     display: block;
     margin: 0 auto;
 }
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+#btn-tap{
+    align-items:inline;
+    padding: 20px 40px;
+    border: 0px;
+    border-radius: 5px;
+    background: #fefae0;
+    color: #606c38;
+    font-weight: 700;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
